@@ -1,10 +1,6 @@
 package com.tom.ButterEggsAndCheese
 
-//V0.2
-
-enum class Piece{
-	Empty, Cross, Circle	
-}
+//V0.3
 
 class Board{
 	//Instantiate the board
